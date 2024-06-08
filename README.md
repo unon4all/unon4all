@@ -66,13 +66,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Adobe_Experience_Design_CC_icon.svg" alt="xd" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="xd" width="40" height="40"/>
   </a>
   <a href="https://square.github.io/retrofit/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/github/explore/ba9d2316e7e348c5a4ffb46c10f6bdb7f6e0698c/topics/retrofit/retrofit.png" alt="retrofit" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/square/retrofit/trunk/website/static/logo-square.png" alt="retrofit" width="80" height="40"/>
   </a>
   <a href="https://dagger.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/github/explore/ba9d2316e7e348c5a4ffb46c10f6bdb7f6e0698c/topics/dagger/dagger.png" alt="dagger hilt" width="40" height="40"/>
+    <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*MA45ld5TZbYFlpowpVjimg.png" alt="dagger hilt" width="100" height="40"/>
   </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
@@ -90,7 +90,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" alt="selenium" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/29e8719bf78915c7a82a26a6c203f53c4cb8fff2/logos/selenium.svg" alt="selenium" width="40" height="40"/>
   </a>
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
